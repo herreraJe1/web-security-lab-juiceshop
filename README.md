@@ -32,11 +32,16 @@
 
 ## 🖼️ Evidencias / Technical Evidence
 
-📁 (./assets)
+📁 [`/assets`](./assets)
 
-- Docker running container (docker_screenshot.png)
-- ZAP scan results (zap_scan_results.png)
-- Juice Shop browser view (juice_shop_browser.png)
+### 🔧 Docker corriendo Juice Shop
+![Docker Screenshot](./assets/docker_screenshot.png)
+
+### 🧃 Vista del navegador con Juice Shop
+![Juice Shop Browser](./assets/juice_shop_browser.png)
+
+### 🔍 Resultados del escaneo con OWASP ZAP
+![ZAP Scan Results](./assets/zap_scan_results.png)
 
 ## 🎯 Aprendizajes Clave / Key Learnings
 
