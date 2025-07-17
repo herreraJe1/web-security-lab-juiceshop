@@ -35,7 +35,7 @@
 📁 [`/assets`](./assets)
 
 - Docker running container (./assets/docker_screenshot.png)
-- ZAP scan results (`zap_scan_results.png`)
+- ZAP scan results (zap_scan_results.png)
 - Juice Shop browser view (`juice_shop_browser.png`)
 
 ## 🎯 Aprendizajes Clave / Key Learnings
