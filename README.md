@@ -22,7 +22,7 @@
 
 | Archivo | Descripción | Idioma |
 |--------|-------------|--------|
-| [`setup_ES.md`](./docs/setup_ES.md) | Instalación de Juice Shop y ZAP | Español 🇪🇸 |
+| [`setup_ES.md`](docs/setup_ES.md) | Instalación de Juice Shop y ZAP | Español 🇪🇸 |
 | [`setup_EN.md`](./docs/setup_EN.md) | Setup for Juice Shop and ZAP | English 🇬🇧 |
 | [`analysis_ES.md`](./docs/analysis_ES.md) | Análisis y remediación | Español 🇪🇸 |
 | [`analysis_EN.md`](./docs/analysis_EN.md) | Vulnerability analysis and fixes | English 🇬🇧 |
