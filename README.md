@@ -38,11 +38,6 @@
 - ZAP scan results (`zap_scan_results.png`)
 - Juice Shop browser view (`juice_shop_browser.png`)
 
-📁 [`/evidences`](./evidences)  
-Opcional: logs, reportes HTML, exportaciones técnicas
-
----
-
 ## 🎯 Aprendizajes Clave / Key Learnings
 
 - 🧠 Aplicación práctica de escaneo DAST
